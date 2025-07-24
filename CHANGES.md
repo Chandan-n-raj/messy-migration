@@ -16,7 +16,7 @@
 
 ## 🤔 Trade-offs
 - Still uses SQLite and no ORM for simplicity
-- No session/token management (not required)
+
 
 ## 📌 If I Had More Time
 - Add unit tests with `pytest`
